@@ -1,0 +1,7 @@
+A JSON Web Token (JWT) is a standard used to securely transmit information between a client (like a frontend application) and a server (the backend). 
+
+The data in a JWT, such as user details, is stored in a simple JSON format.
+
+Header: Contains metadata about the token, such as the algorithm used for signing.
+Payload: Stores the claims, i.e., data being transmitted.
+Signature: Ensures the token’s integrity and authenticity.
