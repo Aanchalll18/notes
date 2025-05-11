@@ -18,3 +18,7 @@ Truthy values evaluate to true in a boolean context (e.g., 'hello', 1, []). Fals
 5. What is the difference between == and ===?
 
 == is the loose equality operator; it performs type coercion. === is strict equality; it checks both value and type.
+
+6. Explain hoisting in JavaScript.
+Hoisting is JavaScript’s default behavior of moving declarations to the top of the scope before code execution. var declarations and function declarations are hoisted.
+
